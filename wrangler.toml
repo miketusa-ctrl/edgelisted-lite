@@ -1,0 +1,10 @@
+# EdgeListed Lite: Worker configuration (no bindings needed).
+name = "my-mcp-server-lite"
+main = "src/index.ts"
+compatibility_date = "2026-10-01"
+
+[vars]
+ENVIRONMENT = "production"
+
+[observability]
+enabled = true
