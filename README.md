@@ -33,7 +33,7 @@ To add a tool, add an entry to `TOOLS` in `src/tools.ts`. It then appears in MCP
 | Glama and MCP Registry verification files, `server.json` template | – | ✓ |
 | Listing Playbook (MCP Registry, Glama, Smithery, mcp.so and more) | – | ✓ |
 
-The paid kit (Solo $39, Team/Agency $89, one-time purchase, USD; 14-day no-questions refund) is at `<PAID_KIT_URL>` (placeholder; the real link will be added at launch). For questions, email digitalpromohub.support@gmail.com.
+The paid kit (Solo $39, Team/Agency $89, one-time purchase, USD; 14-day no-questions refund) is at [EdgeListed Kit](https://miketusa.gumroad.com/l/uyeuhd). For questions, email digitalpromohub.support@gmail.com.
 
 This project works with MCP clients that support remote Streamable HTTP servers. EdgeListed Lite is part of the EdgeListed Kit family. EdgeListed Kit is unofficial and not affiliated with or endorsed by Cloudflare, Anthropic, OpenAI, Anysphere, the Model Context Protocol project, Glama, Smithery, or any other directory named here.
 

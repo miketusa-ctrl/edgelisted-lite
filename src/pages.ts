@@ -3,7 +3,7 @@ import { type Env, MAX_BODY_BYTES, SERVER_DESCRIPTION, SERVER_NAME, SERVER_TITLE
 import { escapeHtml } from './http';
 
 /** Placeholder: replace with the paid kit's sales page before publishing. */
-export const PAID_KIT_URL = 'https://example.com/edgelisted-kit';
+export const PAID_KIT_URL = 'https://miketusa.gumroad.com/l/uyeuhd';
 import { TOOLS } from './tools';
 
 export const ext = (href: string, label: string) => `<a href="${escapeHtml(href)}" target="_blank" rel="noopener noreferrer">${escapeHtml(label)}</a>`;
