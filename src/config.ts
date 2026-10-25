@@ -2,7 +2,7 @@
  * Central configuration. Every number that appears in docs (llms.txt, OpenAPI,
  * landing page) is read from here or from env vars, so nothing drifts.
  */
-export const VERSION = '0.1.2';
+export const VERSION = '0.1.3';
 
 export const SERVER_NAME = 'edgelisted-lite'; // machine name: change to your server's slug
 export const SERVER_TITLE = 'EdgeListed Lite'; // display name: change to your product name

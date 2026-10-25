@@ -17,7 +17,7 @@ const TAG_VALUE = process.env.SMOKE_TRAFFIC_VALUE ?? '1';
 const KEY = process.env.SMOKE_API_KEY || '';
 const V = '2026-07-28';
 
-const baseHeaders = { 'user-agent': 'edgelisted-smoke/0.1.2', ...(TAG_NAME ? { [TAG_NAME]: TAG_VALUE } : {}), ...(KEY ? { authorization: `Bearer ${KEY}` } : {}) };
+const baseHeaders = { 'user-agent': 'edgelisted-smoke/0.1.3', ...(TAG_NAME ? { [TAG_NAME]: TAG_VALUE } : {}), ...(KEY ? { authorization: `Bearer ${KEY}` } : {}) };
 let failures = 0;
 const check = (ok, label, extra = '') => {
   console.log(`${ok ? 'PASS' : 'FAIL'}  ${label}${extra ? `  (${extra})` : ''}`);
