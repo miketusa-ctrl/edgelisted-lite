@@ -2,7 +2,7 @@
 import { type Env, MAX_BODY_BYTES, SERVER_DESCRIPTION, SERVER_NAME, SERVER_TITLE, SUPPORTED_VERSIONS, SUPPORT_EMAIL, VERSION } from './config';
 import { escapeHtml } from './http';
 
-/** Placeholder: replace with the paid kit's sales page before publishing. */
+/** Sales page of the paid EdgeListed Kit, linked from the landing page. */
 export const PAID_KIT_URL = 'https://miketusa.gumroad.com/l/uyeuhd';
 import { TOOLS } from './tools';
 
