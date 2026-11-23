@@ -31,7 +31,7 @@ To add a tool, add an entry to `TOOLS` in `src/tools.ts`. It then appears in MCP
 | API keys, KV daily quotas, Rate Limiting bindings | – | ✓ |
 | Privacy-preserving unique-visitor counter | – | ✓ |
 | Glama and MCP Registry verification files, `server.json` template | – | ✓ |
-| Listing Playbook (MCP Registry, Glama, Smithery, mcp.so and more) | – | ✓ |
+| Listing Playbook (official MCP Registry, Glama, mcp.so and more) | – | ✓ |
 
 The paid kit (Solo $39, Team/Agency $89, one-time purchase, USD; 14-day no-questions refund) is at [EdgeListed Kit](https://miketusa.gumroad.com/l/uyeuhd). For questions, email digitalpromohub.support@gmail.com.
 
